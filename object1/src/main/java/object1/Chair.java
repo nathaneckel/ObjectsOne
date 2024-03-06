@@ -1,8 +1,12 @@
+package object1;
+
 public class Chair {
     private String material;
     private String color;
     private int legs;
 
+
+    // Constructor
     public Chair(String material, String color, int legs) {
         this.material = material;
         this.color = color;

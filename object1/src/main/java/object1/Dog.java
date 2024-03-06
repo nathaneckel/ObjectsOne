@@ -5,6 +5,7 @@ public class Dog {
     private int age;
     private String breed;
 
+    // Constructor
     public Dog(String name, int age, String breed) {
         this.name = name;
         this.age = age;
