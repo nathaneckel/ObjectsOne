@@ -14,7 +14,7 @@ class Person {
         this.age = age;
         Person.height = height;
     }
-//
+//  Reading to see what to do with this arra
 //    Person person1 = new Person ("Alice", 24, 100);
 //    Person person2 = new Person ("Bob", 33, 222);
 //    Person person3 = new Person ("Nathan", 49, 333);
