@@ -14,18 +14,13 @@ class Person {
         this.age = age;
         Person.height = height;
     }
-//  Reading to see what to do with this arra
-//    Person person1 = new Person ("Alice", 24, 100);
-//    Person person2 = new Person ("Bob", 33, 222);
-//    Person person3 = new Person ("Nathan", 49, 333);
 
     public Person() {
-
     }
 
     public static void main(String[] args) {
         // Declare and initialize an object
-        Person person1 = new Person("John", 30, height);
+        Person person1 = new Person("John", 30, 200);
 
         /* Now you can use the Object `person1` */
 
